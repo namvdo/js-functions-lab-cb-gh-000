@@ -27,7 +27,7 @@ describe('functions', () => {
 })
 
 function happyHolidays(){
-  return "Happy Holiday!";
+  return "Happy Holidays!";
 }
 
 function happyHolidaysTo(name){
